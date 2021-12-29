@@ -4,3 +4,6 @@
 *terraform.*
 ## Crash log files
 crash.log
+
+# python
+__pycache__

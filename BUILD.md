@@ -76,7 +76,7 @@ local     postgres-local-vol
 
 ### 4.1. Stop and remove docker containers and volumes
 
-at `local/terraform/build/`  
+at `env/terraform/build/`  
 
 ```bash
 terraform destroy
